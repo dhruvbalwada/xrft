@@ -1,0 +1,37 @@
+Metadata-Version: 1.1
+Name: xrft
+Version: 0.1
+Summary: xrft: Fourier Transforms for Xarray Data Structures
+Home-page: http://github.com/rabernat/xrft
+Author: Ryan Abernathey
+Author-email: rpa@ldeo.columbia.edu
+License: MIT
+Description: 
+        
+        xrft
+        ========
+        Fourier Transforms for Xarray Data Structures
+        
+        License
+        =======
+        ``xrft`` is licensed under the terms of the MIT license. See the file
+        "LICENSE" for information on the history of this software, terms & conditions
+        for usage, and a DISCLAIMER OF ALL WARRANTIES.
+        
+        All trademarks referenced herein are property of their respective holders.
+        
+        Copyright (c) 2015--, Ariel Rokem, The University of Washington
+        eScience Institute.
+        
+Platform: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Requires: numpy
+Requires: scipy
+Requires: xarray
+Requires: dask
